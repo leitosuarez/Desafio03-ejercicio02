@@ -5,17 +5,17 @@
 npm create vite@latest ./
 ```
 
-# Instalo las dependencias
+## Instalo las dependencias
 
 ```sh
 npm install
 ```
-# Arranco servidor de desarollo
+## Arranco servidor de desarollo
 
 ```sh
 npm run dev
 ```
-# Detengo servidor de desarollo
+## Detengo servidor de desarollo
 
 ```sh
 ctrl + c
